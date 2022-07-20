@@ -1,0 +1,30 @@
+.container {
+  
+  text-align: center;
+}
+
+ul {
+   list-style: none;
+}
+
+#note {
+   width: 300px;
+}
+
+li {
+   
+}
+
+
+.sil {
+   margin-left: 20px;
+   float:right;   
+}
+
+.items {
+	text-align:center;
+	margin-left: 770px;
+	width: 300px;
+	background-color: gray;
+
+}
